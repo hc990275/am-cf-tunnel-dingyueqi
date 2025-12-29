@@ -5,7 +5,7 @@
  * BLog     : https://amclubss.com
  */
 
-let id = atob('ZWM4NzJkOGYtNzJiMC00YTA0LWI2MTItMDMyN2Q4NWUxOGVk');
+let id = atob('MGEyNDkwZDEtNjc0NS00NGY3LTk0ZWItNjUwNGEzMDM5MDI5');
 
 let pnum = atob('NDQz');
 let paddrs = [
